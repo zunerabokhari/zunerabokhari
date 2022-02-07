@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- �🔭 I'm currently working on a project for a nonprofit in New York
 - 🌱 I'm currently learning Python, SQL, Tableau
 - 👯 I'm looking to collaborate on *open to ideas*
-- 🥅 My Primary Goal for 2021: Working as a Data Analyst or Data Scientist
+- 🥅 My Primary Goal for 2022: Working as a Data Analyst or Data Scientist
 - 📫 How to reach me: zunerabokhari@gmail.com | https://www.linkedin.com/in/zunerabokhari/
 
 ## Technical Skills:
